@@ -1,8 +1,9 @@
 body {
-    background-color: PaleGreen:
+    background-color: PaleGreen;
+    color:black;
 }
 
 h1 {
     font-size: 20 px;
-    color:white;
+    color:rgb(0, 0, 0);
 }
