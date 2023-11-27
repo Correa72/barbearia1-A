@@ -33,9 +33,11 @@ footer {
 }
 .imagem-2{
     width: 30%;
+    align-items: center;
     margin-left: 20px;
 }
 .imagem-3{
     width: 40%;
+    align-items: center;
     margin-left: 20px;
 }
